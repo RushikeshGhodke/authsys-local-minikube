@@ -1,6 +1,6 @@
 # 🔐 Auth-Sys - Complete Authentication System
 
-A full-stack authentication system built with modern technologies, featuring secure user management, JWT authentication, and cloud-ready deployment.
+A full-stack authentication system built with modern technologies, featuring secure user management, JWT authentication, and cloud-ready deployment with docker and k8s.
 
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 [![Node.js](https://img.shields.io/badge/Node.js-18+-green.svg)](https://nodejs.org/)
